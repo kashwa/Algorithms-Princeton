@@ -44,6 +44,7 @@ system percolates using the **Union-Find** data structure.
 **Files**
 
 - `Percolation.java`
+- `PercolationStats.java`
 
 **Key Concepts**
 
@@ -86,7 +87,8 @@ https://algs4.cs.princeton.edu/code/
 Make sure `algs4.jar` is on your classpath.
 
 ```bash
-javac -cp .:algs4.jar Percolation.java
+javac -cp .:algs4.jar Percolation.java PercolationStats.java
+java  -cp .:algs4.jar PercolationStats 200 100
 ```
 
 ## 📖 References
