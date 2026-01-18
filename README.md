@@ -117,9 +117,3 @@ Please follow **Coursera** and **Princeton University** academic honesty policie
 **Aabed Kashwa**  
 Software Engineer  
 Learning Algorithms as a foundation for systems programming and Go.
-
----
-
-## ⚠️ Important Note
-
-> Solutions are shared for learning purposes only. Do not copy for active submissions.
