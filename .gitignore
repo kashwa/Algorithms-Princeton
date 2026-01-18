@@ -1,0 +1,12 @@
+# Java compiled files
+*.class
+
+# OS / IDE noise
+.DS_Store
+.idea/
+.vscode/
+
+# Build directories (if any)
+out/
+bin/
+/Algorithms, Part I.iml
